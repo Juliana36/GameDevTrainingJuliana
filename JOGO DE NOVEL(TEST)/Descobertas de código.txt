@@ -1,0 +1,3 @@
+Sobre o código de imprimir a posição do mouse na tela:
+- Esse comando só funciona dentro de um loop onde a posição sempre será atualizada
+- Ajuda no processo de criação de jogos onde eu quero decidir um local para desenhar e preciso da tela.
