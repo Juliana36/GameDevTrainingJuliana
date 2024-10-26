@@ -18,6 +18,7 @@ while running:
             config.tela = pygame.display.set_mode((config.largura, config.altura), pygame.RESIZABLE)
 
     # Preenche o fundo da tela com a cor escolhida
+    config.tela.blit(config.text, (10,10))
     config.tela.fill(config.background_color)
 
     # Atualiza o conteúdo da tela
